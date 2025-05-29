@@ -1,0 +1,13 @@
+{
+    "radio.1.ieee_mode": "11acvht40",
+    "radio.1.chanbw": "40",
+    "radio.1.txpower": "28",
+    "wireless.1.l2_isolation": "enabled",
+    "radio.1.reg_obey": "disabled",
+    "radio.1.atpc.status": "enabled",
+    "radio.1.atpc.threshold": "37",
+    "wireless.1.amsdu": "3",
+    "wireless.1.ampdu.frames": "20",
+    "radio.1.rx_sensitivity": "-75"
+  }
+  

@@ -1,0 +1,13 @@
+{
+    "AP": {
+      "user": "ubnt",
+      "password": "passss1",
+      "alt_passwords": ["passss2", "passss3", "passss4"]
+    },
+    "CPE": {
+      "user": "ubnt",
+      "password": "passss1",
+      "alt_passwords": ["passss2", "passss3"]
+    }
+  }
+  
