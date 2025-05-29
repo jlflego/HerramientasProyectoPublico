@@ -6,10 +6,10 @@
 
 ---
 
-Herramienta CLI desarrollada por **SoporteIngJLF** para ISPs y técnicos de campo. 
+Herramienta CLI desarrollada por **SoporteIngJLF** para ISPs y técnicos de campo.
 Permite configurar, verificar y actualizar en lote equipos Ubiquiti (CPEs y APs AC) mediante SSH de forma masiva y controlada.
 Creditos Ing Jose Luis Flego
-Contacto: jlsoporte.ingenieria@gmail.com
+Contacto: <jlsoporte.ingenieria@gmail.com>
 
 ---
 
@@ -24,7 +24,6 @@ Contacto: jlsoporte.ingenieria@gmail.com
 
 ## 📁 Estructura del proyecto
 
-```
 HerramientasProyectoPublico/
 ├── config_ap_ac.json         # Parámetros por defecto para APs AC
 ├── config_pass.json          # Usuario y contraseñas por perfil (AP / CPE)
@@ -35,15 +34,12 @@ HerramientasProyectoPublico/
 ├── config_functions.py       # Conexión y lógica de verificación/configuración
 ├── requirements.txt          # Dependencias necesarias (paramiko)
 └── README_PUBLICO.md         # Documentación para la versión compartida
-```
-
----
 
 ## ▶️ ¿Cómo empezar?
 
 ### 1. Cloná el repositorio
 
-```bash
+``` bash
 git clone https://github.com/tu_usuario/HerramientasProyectoPublico.git
 cd HerramientasProyectoPublico
 ```
@@ -86,7 +82,7 @@ Y seguí las instrucciones del menú para ingresar IPs o cargar desde `ip_list.c
 
 **Soporte Ing. JLF** – Soporte técnico especializado para ISPs
 **Creditos Ing Jose Luis Flego**
-**Contacto: jlsoporte.ingenieria@gmail.com**
+**Contacto: <jlsoporte.ingenieria@gmail.com>**
 
 ---
 
