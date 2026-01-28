@@ -1,13 +1,13 @@
 {
     "AP": {
       "user": "ubnt",
-      "password": "passss1",
-      "alt_passwords": ["passss2", "passss3", "passss4"]
+      "password": "Boca242!",
+      "alt_passwords": ["boca242!", "Bocaroja242!", "Bocarojasa242!"]
     },
     "CPE": {
       "user": "ubnt",
-      "password": "passss1",
-      "alt_passwords": ["passss2", "passss3"]
+      "password": "Bocaroj20",
+      "alt_passwords": ["bocaroj", "boca.roj"]
     }
   }
   

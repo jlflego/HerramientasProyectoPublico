@@ -1,0 +1,13 @@
+{
+    "AP": {
+      "user": "ubnt",
+      "password": "Boca242!",
+      "alt_passwords": ["boca242!", "Bocaroja242!", "Bocarojasa242!"]
+    },
+    "CPE": {
+      "user": "ubnt",
+      "password": "Bocaroj20",
+      "alt_passwords": ["bocaroj", "boca.roj"]
+    }
+  }
+  
